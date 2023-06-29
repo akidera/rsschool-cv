@@ -38,11 +38,9 @@ Codewars registration example is given.
 
 _Code didn't work properly:_
 
-<code>
-printf(function multiply(a, b){
-    a * b
-    })
-    <code>
+```
+printf(function multiply(a, b){a * b})
+```
 
 _Solution:_
 
