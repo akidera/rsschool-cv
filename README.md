@@ -1,1 +1,1 @@
-[CV link](https://akidera.github.io/rsschool-cv/cv)
+[CV_link](https://akidera.github.io/rsschool-cv/cv)
