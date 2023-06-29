@@ -2,7 +2,7 @@
 
 # Volha Pikulenka
 
-![ava](avatar.jpg)
+![ava](../avatar.jpg)
 
 ---
 
