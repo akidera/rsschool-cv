@@ -1,10 +1,6 @@
----
-
 # Volha Pikulenka
 
-![ava](avatar.jpg)
-
----
+![](https://snipboard.io/hple0o.jpg)
 
 ## Contact info:
 
