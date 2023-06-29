@@ -1,6 +1,6 @@
 ---
 
-# CV Volha Pikulenka
+# Volha Pikulenka
 
 ![ava](avatar.jpg)
 
